@@ -1,0 +1,5 @@
+1. Make sure to download the data (csv/Excel preferred) from the link provided under data source (Montogomery county)
+
+2. Run test.R, Loads all required packages and data in your workspace. Make sure to save Ui.r, server.r, www folder for the image, data source and test.r in the same working directory
+
+3. Run ui.r, the dashboard loaded should show all the results
